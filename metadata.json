@@ -1,0 +1,6 @@
+{
+  "name": "MediaPipe Pose Tracker",
+  "description": "Real-time webcam pose landmark tracker. Inspect 3D skeletal points, record clips, and export animations ready for Blender 3D and Roblox (R15 and R6) rigs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
